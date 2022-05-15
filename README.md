@@ -28,3 +28,5 @@ python3 test.py
 ![image](https://lh5.googleusercontent.com/v47PP4uQy-09cvRdhcGsOAQM65bhKP2Lu_TTW-djvn8vhrZkyrzQHe2Rsr7Qpt5IiK_jJgvz6B9AN-D6Vsdv2yHcE_u2gc0ePWFDKDJLhNyNJSsgpPE0kyn134cvt4UuQE3z7xTLVngXXrHU0jPsvQ)
 - Traditional RNN results
 ![image](https://lh4.googleusercontent.com/_aZaAqNmWGrObDSUEKpI71YN1YE0CQ2jCei7XJNFOZasr8yIdEFf_QnxWxAvcnkhwzG03CshExwkmcKtIUXZ4fzN5EyDpFEiunTjojbjsTHBwWuEU6wkm3MK-8tJ3IgZdGQ3UzAQ0M0YOjODs9qCUw)
+
+[demo video](https://drive.google.com/file/d/1Po6Rqb9omaI7aOn0DYZws-O0Uxh58OmB/view?usp=sharing)
